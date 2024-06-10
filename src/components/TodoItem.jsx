@@ -16,8 +16,8 @@ export default function TodoItem() {
         <p>내용: 이거슨내용</p>
       </section>
       <section>
-        <button>완료</button>
-        <button>삭제</button>
+        <button onClick={() => {}}>완료</button>
+        <button onClick={() => {}}>삭제</button>
       </section>
     </li>
   );
